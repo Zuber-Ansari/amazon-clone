@@ -1,3 +1,3 @@
-# amazon-s-clone
+# amazon-clone
 My first project
 Author - Zuber Ansari
